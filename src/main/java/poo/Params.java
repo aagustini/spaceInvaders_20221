@@ -6,7 +6,7 @@ public class Params {
     public static final String WINDOW_TITLE = "Space Invaders";
     public static final int WINDOW_WIDTH = 800;
     public static final int WINDOW_HEIGHT = 600;
-    public static final String FILE_NAME = "C:\\Users\\gabri\\code\\javafx\\tf\\src\\main\\java\\poo\\highscores.csv";
+    public static final String FILE_NAME = "C:\\Users\\gabri\\code\\javafx\\tf\\src\\main\\java\\poo\\scoreboard.csv";
 
     private static Params params = null;
     private Random rnd;

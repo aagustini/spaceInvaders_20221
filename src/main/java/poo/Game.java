@@ -81,7 +81,7 @@ public class Game {
         }
         activeChars.add(canhao);
 
-        for (int i = 0; i < 1 * stage; i++) {
+        for (int i = 0; i < 8 * stage; i++) {
             createEnemy();
         }
 
